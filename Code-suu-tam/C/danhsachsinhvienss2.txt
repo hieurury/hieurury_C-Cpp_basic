@@ -1,0 +1,5 @@
+Ten: hieu | Tuoi : 19 | Nghanh: ktpm
+Ten: giang | Tuoi : 19 | Nghanh: cntt
+Ten: nhat | Tuoi : 19 | Nghanh: ky thuat
+Ten: nhan | Tuoi : 19 | Nghanh: attt
+Ten: huynh | Tuoi : 19 | Nghanh: cntt
