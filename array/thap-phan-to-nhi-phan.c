@@ -15,7 +15,7 @@ int main() {
         index++;
         n /= 2;
     }
-
+    
     for(int i = index - 1; i >= 0; i--) {
         printf("%d", bin[i]);
     }
